@@ -1,0 +1,8 @@
+﻿  Building Custom Rule C:/Users/Матвей/Desktop/Atomic/Laba5/CMakeLists.txt
+  photo.cpp
+C:\Users\Матвей\Desktop\Atomic\Laba5\photo.cpp(39,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Матвей\Desktop\Atomic\Laba5\photo.cpp(40,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Матвей\Desktop\Atomic\Laba5\photo.cpp(70,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Матвей\Desktop\Atomic\Laba5\photo.cpp(99,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Матвей\Desktop\Atomic\Laba5\photo.cpp(104,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Laba5.vcxproj -> C:\Users\Матвей\Desktop\Atomic\Laba5\build\Debug\Laba5.exe
